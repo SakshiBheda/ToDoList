@@ -7,4 +7,3 @@ I hope this is very helpful for you, If this project help you than hit the star 
 Thank You !
 Sakshi Bheda
 
-![Screenshot 2022-02-17 002613](https://user-images.githubusercontent.com/84337482/154336206-0bc0e168-8649-4992-96d7-bc41a937d511.png)
